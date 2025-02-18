@@ -12,7 +12,7 @@ This project iterates over a unit circle of radius one and "throws" darts at ran
 
 The more iterations (darts) thrown, the closer you approach the value of Pi.
 
-The program runs continuously, pausing 5 seconds between runs. While the program is running/estimating, the neopixels flash random colors. When it finishes an estimate, the neopixel displays the answer by blinking the neopixels green for the value (three times for *three*, one time for **one** and so on.). Zeroes are indicated by turning all pixels pink briefly.
+The program runs continuously, pausing 5 seconds between runs. While the program is running/estimating, the neopixels flash random colors. When it finishes an estimate, the neopixel displays the answer by blinking the neopixels green for the value (three times for *three*, one time for **one** and so on.). Zeroes are indicated by turning all pixels pink briefly. The decimal point is indicated by all pixels flashing blue.
 
 If the program is run inside a REPL like Mu, it will print out the results:
 
