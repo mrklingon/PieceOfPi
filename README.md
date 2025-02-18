@@ -32,3 +32,5 @@ The default value of Iterations is 100 - you can change that to higher or lower 
 #Files#
 * findPi.py - copy to code.py to run
 * ncount.py - helper file, provides color definitions and blinknum() to blink the digit values.
+
+For more about the Monte Carlo Method: https://en.wikipedia.org/wiki/Monte_Carlo_method
